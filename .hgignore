@@ -1,0 +1,9 @@
+syntax: glob
+BabyGame.suo
+BabyGame/BabyGame/BabyBashXNA*.zip
+BabyGame/BabyGame/BabyGame.csproj.user
+BabyGame/BabyGame/bin
+BabyGame/BabyGame/ClickOnce
+BabyGame/BabyGame/obj
+Thumbs.db
+BabyGame/BabyGameContent/obj
